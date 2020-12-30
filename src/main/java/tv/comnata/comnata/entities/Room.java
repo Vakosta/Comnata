@@ -1,5 +1,6 @@
 package tv.comnata.comnata.entities;
 
+/*
 import javax.persistence.*;
 
 @Entity
@@ -13,3 +14,4 @@ public class Room {
     @Column
     String name;
 }
+*/
